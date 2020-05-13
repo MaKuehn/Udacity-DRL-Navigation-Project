@@ -10,7 +10,7 @@ two-dimensional space. The task is completed if the agent manages to collect an 
 reward of 13 or more in 100 consecutive episodes.
 
 ## States
-A 37 dimensional vector that includes information about the agent velocity and his 
+A 37 dimensional vector that includes information about the agent velocity and its 
 field of vision in the forward direction (ray-based).
 
 ## Actions
